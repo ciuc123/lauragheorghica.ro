@@ -1,0 +1,28 @@
+---
+layout: default
+title: Pagina nu a fost găsită
+description: Pagina pe care o căutați nu există.
+permalink: /404.html
+---
+
+<div class="container" style="text-align: center; padding: 4rem 0;">
+    <h1 style="font-size: 8rem; color: #e74c3c; margin-bottom: 1rem;">404</h1>
+    <h2>Pagina nu a fost găsită</h2>
+    <p style="font-size: 1.2rem; color: #666; margin-bottom: 2rem;">
+        Ne pare rău, dar pagina pe care o căutați nu există sau a fost mutată.
+    </p>
+
+    <div style="margin: 2rem 0;">
+        <a href="{{ '/' | relative_url }}" class="cta-button">Înapoi la pagina principală</a>
+    </div>
+
+    <div style="margin-top: 3rem;">
+        <h3>Poate căutai:</h3>
+        <ul style="list-style: none; padding: 0;">
+            <li><a href="{{ '/' | relative_url }}">Pagina principală</a></li>
+            <li><a href="{{ '/despre/' | relative_url }}">Despre mine</a></li>
+            <li><a href="{{ '/servicii/' | relative_url }}">Servicii</a></li>
+            <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+        </ul>
+    </div>
+</div>

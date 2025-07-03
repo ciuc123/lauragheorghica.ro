@@ -1,0 +1,51 @@
+# Create the main Jekyll configuration file
+config_yml = """title: Laura Gheorghica - Educație Relațională
+email: laura.gheorghica@gmail.com
+description: >-
+  Consilier relațional cu peste 13 ani de experiență în comunicarea publică și managementul relațiilor. 
+  Îți ofer un spațiu sigur pentru a învăța să construiești relații sănătoase și împlinite.
+baseurl: "" # Change this to your repository name if it's not username.github.io
+url: "https://YOUR-USERNAME.github.io" # Change this to your GitHub Pages URL
+twitter_username: ""
+github_username: ""
+phone: "+40 745 844 239"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: "Acasă"
+    url: "/"
+  - title: "Despre Mine"
+    url: "/despre/"
+  - title: "Servicii"
+    url: "/servicii/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+"""
+
+with open('_config.yml', 'w', encoding='utf-8') as f:
+    f.write(config_yml)
+    
+print("Created _config.yml")

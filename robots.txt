@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /_site/
+Disallow: /.git/
+Disallow: /.github/
+
+Allow: /
+
+Sitemap: https://YOUR-USERNAME.github.io/sitemap.xml
+
+# Note: Update the Sitemap URL with your actual GitHub Pages URL
