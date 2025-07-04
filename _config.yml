@@ -3,8 +3,8 @@ email: laura.gheorghica@gmail.com
 description: >-
   Consilier relațional cu peste 13 ani de experiență în comunicarea publică și managementul relațiilor. 
   Îți ofer un spațiu sigur pentru a învăța să construiești relații sănătoase și împlinite.
-baseurl: "" # Change this to your repository name if it's not username.github.io
-url: "https://lauragheorghica.ro" # Change this to your GitHub Pages URL
+baseurl: "lauragheorghica.ro" # Change this to your repository name if it's not username.github.io
+url: "" # Change this to your GitHub Pages URL
 twitter_username: ""
 github_username: ""
 phone: "+40 745 844 239"
