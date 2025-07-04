@@ -79,14 +79,24 @@ Folosește formularul de mai jos pentru a-mi trimite un mesaj. Îți voi răspun
 **Cât de repede răspunzi la mesaje?**
 De obicei răspund în termen de 24-48 de ore. Dacă este o urgență, te rog să mă suni direct.
 
-**Prima consultație este gratuită?**
-Ofer o scurtă consultație inițială de 30 de minute pentru a vedea dacă colaborarea noastră este potrivită.
+[//]: # (**Prima consultație este gratuită?**)
+[//]: # (Da, ofer o consultație inițială gratuită de 30 de minute pentru a discuta despre nevoile tale și a vedea dacă colaborarea noastră este potrivită.)
 
-**Oferă consiliere de urgență?**
-Pentru situații de urgență, te rog să contactezi serviciile de urgență locale sau să mă suni direct.
+[//]: # (**Cum pot programa o întâlnire?**)
+
+[//]: # (Poți să mă contactezi prin telefon sau email pentru a stabili o întâlnire. Prefer să discutăm telefonic pentru a găsi cea mai bună soluție pentru tine.)
+
+[//]: # (**Oferi sesiuni online?**)
+
+[//]: # (Da, ofer sesiuni online prin Zoom sau alte platforme de videoconferință. Este o opțiune convenabilă și eficientă.)
+[//]: # (Ofer o scurtă consultație inițială de 30 de minute pentru a vedea dacă colaborarea noastră este potrivită.)
+
+[//]: # (**Oferă consiliere de urgență?**)
+
+[//]: # (Pentru situații de urgență, te rog să contactezi serviciile de urgență locale sau să mă suni direct.)
 
 **Unde au loc sesiunile?**
-Ofer atât sesiuni online cât și întâlniri față în față. Discutăm despre modalitatea preferată în funcție de nevoile tale.
+Ofer sesiuni online dar urmează să redeschid cabinetul. Discutăm despre modalitatea preferată în funcție de nevoile tale.
 
 ---
 
